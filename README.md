@@ -1,5 +1,7 @@
 # ICS2OLGLEXPO
 exploring cubing 
 
-time  |   solves 
------ |   -------
+The cube  |   Time  |   # of Solves  | Average of 5 | Average 12 
+----------|-------- |   ------------ | ------------ |-----------
+  Pyramix |
+--------
